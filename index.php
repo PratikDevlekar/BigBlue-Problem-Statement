@@ -15,7 +15,7 @@ while(! feof($file))  {
     $result = fgets($file);
     // Parese the unique id;
     $getunique_id = substr($result,0,14);
-    /*  I Looked into the given parttern in problem statement and found out a small part of unique id varies;
+    /*  I Looked into the given pattern in problem statement and found out a small part of unique id varies;
         Example : 0000001HL62110 ----> Unique ID
                   HL62110 ---> ID : last 110,111,112 routes us to diffrent structure;
     */
