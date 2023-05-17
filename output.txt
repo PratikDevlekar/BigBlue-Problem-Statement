@@ -1,0 +1,42 @@
+
+// I ran the code on my local server, this output was genrate on localhost, i just copy paste it here. Also attached a screen shot please review it;
+
+0000001HL62110
+Movement_id = A1Z2E3R4T5
+Product_id = GBL0001
+Product_name = wrench
+Movement_quantity = 1000
+Remaining_quantity = 123
+Item_Location = 2
+
+0000002HL62112
+Movement_id = A1Z2E3R4T5
+Date = 2019-10-12T07:20:50+00:00
+Picker Name = John doe
+
+0000003HL62110
+Movement_id = A1Z2E3R4T6
+Product_id = GBL0001
+Product_name = wrench
+Movement_quantity = 2000
+Remaining_quantity = 122
+Item_Location = 2
+
+0000004HL62112
+Movement_id = A1Z2E3R4T6
+Date = 2019-10-12T07:20:50+00:00
+Picker Name = Paul bell
+
+0000005HL62110
+Movement_id = A1Z2E3R4T7
+Product_id = GBL0001
+Product_name = wrench
+Movement_quantity = 1000
+Remaining_quantity = 120
+Item_Location = 2
+
+0000006HL62112
+Movement_id = A1Z2E3R4T7
+Date = 2019-10-12T07:20:50+00:00
+Picker Name = Dany dog
+
